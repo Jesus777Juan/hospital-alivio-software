@@ -16,3 +16,11 @@ El objetivo principal es **mejorar la eficiencia operativa**, **asegurar el cont
 ---
 
 ##  Estructura del Repositorio
+## Ramas del Proyecto
+- `main` → Versión estable del proyecto  
+- `feature/pacientes` → Desarrollo del módulo de pacientes  
+- `feature/urgencias` → Desarrollo del módulo de urgencias  
+- `feature/inventario` → Desarrollo del módulo de inventario  
+- `feature/turnos` → Desarrollo del módulo de turnos  
+- `feature/capacitacion` → Desarrollo del módulo de capacitación  
+- `docs` → Documentación del proyecto  
